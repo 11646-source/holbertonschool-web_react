@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "Es2020",
+		"module": "commonJS",
+		"rootDir": "./src",
+		"outDir": "./disct",
+		"strict": true,
+		"esModuleInterop": true,
+		"moduleresolution": "node",
+		"resolveJsonModule": true,
