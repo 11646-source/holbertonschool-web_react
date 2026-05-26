@@ -8,3 +8,9 @@
 		"esModuleInterop": true,
 		"moduleresolution": "node",
 		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true
+	},
+	"include": ["src/**/*"]
+	"exclude": ["node_modules", "dist"]
+}
